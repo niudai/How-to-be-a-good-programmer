@@ -3,11 +3,9 @@
 >该代码仓库用于存放由牛岱整理的编程学习资源, 梳理的编程学习路线, 以及一些学习感悟。
 
 ## 工具篇
-<hr>
-<ul>
-    <li> 融入编程地球村：Github 与 StackOverFlow</li>
-    <li> 科学上网: 使用Google, 与世界接轨</li>
-</ul>
+
+- 融入编程地球村：**[Github](./tool_github.md)** 与 **[StackOverFlow](./tool_stackoverflow)**
+- 科学上网: **[使用Google](./tool_google)**, 与世界接轨
 
 ## 个人项目篇
 <hr>
