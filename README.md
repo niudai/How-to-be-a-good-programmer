@@ -9,13 +9,13 @@
 
 ## 个人项目篇
 
-- [搭建自己的技术博客](project_blog.md)
-- [如何参与开源项目](project_opensource.md)
+- **[搭建自己的技术博客](project_blog.md)**
+- **[如何参与开源项目](project_opensource.md)**
 
 ## 个人修养篇
 
-- **[如何学习英文, 融入英文世界](ability_english.md)** 
-- 观念的转变: 学不如做, 实例驱动.
+- **[如何学习英文, 融入英文世界](ability_english.md)**
+- **[观念的转变: 学不如做, 实例驱动](ability_task_driven.md)**.
 - 学会输出知识, 尝试写文章
 
 ## 核心工具与课程资源
