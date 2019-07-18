@@ -29,7 +29,7 @@
 ### 知识篇
 
 - [算法与数据结构](knowledge_data_structure.md)
-- 操作系统
+- [操作系统](knowledge_operating_system.md)
 - 计算机组成原理
 - 计算机网络
 
