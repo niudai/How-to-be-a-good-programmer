@@ -11,4 +11,6 @@
 - 学习coursera上开源算法4课程, **[教材](https://algs4.cs.princeton.edu/home/)**,**视频教程[开源地址](https://www.coursera.org/learn/algorithms-part1/)**
 - 做leetcode的easy到medium难度的题目, 获得及时反馈, 在讨论中学习优秀解法, 体会算法与数据结构的用处.
 
+>完整算法4pdf教材在文件夹`CS textbooks`中, 自行查阅
 
+后期再看算法导论之类的硬书, 而且说实话, 对于大多数非科研的, 偏工程的学生, 有上面的算法4和leetcode实践, 就完全够用了.

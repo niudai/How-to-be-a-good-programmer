@@ -16,7 +16,7 @@
 
 - **[如何学习英文, 融入英文世界](ability_english.md)**
 - **[观念的转变: 学不如做, 实例驱动](ability_task_driven.md)**.
-- 学会输出知识, 尝试写文章
+- **[学会输出知识, 尝试写文章](ability_articles.md)**
 
 ## 核心工具与课程资源
 > 提供各种核心课程的pdf资源和链接资源
@@ -30,13 +30,13 @@
 
 - [算法与数据结构](knowledge_data_structure.md)
 - [操作系统](knowledge_operating_system.md)
-- 计算机组成原理
-- 计算机网络
+- [计算机组成原理](http://staff.ustc.edu.cn/~llxx/cod/homework.html)
+- [计算机网络](knowledge_network.md)
 
 ## 习惯篇
 
 - [电脑管理篇](https://www.zhihu.com/people/niu-dai-68-44/answers/by_votes) - 维护一个健康的电脑环境
 
-- [代码风格篇](./habit_checkstyle) - 写出优雅代码
+- [代码风格篇](./habit_checkstyle.md) - 写出优雅代码
   
-- [视野篇](./habit_know_how) - 获取更广视野
+- [视野篇](./habit_know_how.md) - 获取更广视野
