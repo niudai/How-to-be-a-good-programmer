@@ -23,8 +23,8 @@
 
 ### 工具篇
 
-- Git学习
-- 命令行/快捷键学习
+- [Git学习](./tool_git.md)
+- [命令行/快捷键学习](./tool_command.md)
 
 ### 知识篇
 
@@ -35,6 +35,8 @@
 
 ## 习惯篇
 
-- 电脑管理篇 - 维护一个健康的电脑环境
-- 代码风格篇 - 写出优雅代码
-- 视野篇 - 获取更广视野
+- [电脑管理篇](https://www.zhihu.com/people/niu-dai-68-44/answers/by_votes) - 维护一个健康的电脑环境
+
+- [代码风格篇](./habit_checkstyle) - 写出优雅代码
+  
+- [视野篇](./habit_know_how) - 获取更广视野
