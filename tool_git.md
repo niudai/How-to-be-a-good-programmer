@@ -2,7 +2,7 @@
 
 >我尝试过很多Git学习资源, 当然也读过官方文档, 但目前来说, 我发现了最好的一个学习资源, 在质量上, 易读性上, 它都为我见过的最佳。
 
-## BitBucket提供的系统Git教程
+## [BitBucket提供的系统Git教程](https://www.atlassian.com/git/tutorials)
 
 ![Image](images/BitBucket_1.png)
 
