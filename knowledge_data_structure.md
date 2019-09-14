@@ -14,3 +14,9 @@
 >完整算法4pdf教材在文件夹`CS textbooks`中, 自行查阅
 
 后期再看算法导论之类的硬书, 而且说实话, 对于大多数非科研的, 偏工程的学生, 有上面的算法4和leetcode实践, 就完全够用了.
+
+### 算法导论资源:
+
+[原书第三版](https://ms.sapientia.ro/~kasa/Algorithms_3rd.pdf)
+
+[习题解析](https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html)
