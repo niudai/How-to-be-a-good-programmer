@@ -33,6 +33,7 @@
 - [计算机组成原理](http://staff.ustc.edu.cn/~llxx/cod/homework.html)
 - [计算机网络](knowledge_network.md)
 - [编译原理](knowledge_compiler.md)
+- [微机原理](knowledge_microprocessor.md)
 
 ## 习惯篇
 
