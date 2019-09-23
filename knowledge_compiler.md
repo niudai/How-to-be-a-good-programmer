@@ -1,5 +1,9 @@
 ## 编译原理
 
+教材推荐(见 CSTextbook 文件夹):
+
+[Compilers Principles Techniques and Tools (2nd Edition)]
+
 网课推荐：
 
 [Youtube 上的斯坦福公开课](https://www.youtube.com/playlist?list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx)

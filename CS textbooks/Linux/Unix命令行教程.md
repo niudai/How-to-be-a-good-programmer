@@ -1,1 +1,0 @@
-## [Linux命令行与shell脚本大全](https://www.jianguoyun.com/p/DZg4h08QouKBBxilnN8B)
