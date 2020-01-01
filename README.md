@@ -1,6 +1,7 @@
 # 程序员修炼宝典
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/niudai/How-to-be-a-good-programmer)
+![GitHub issues](https://img.shields.io/github/issues/niudai/How-to-be-a-good-programmer)
 
 >该代码仓库用于存放由牛岱整理的编程学习资源, 梳理的编程学习路线, 以及一些学习感悟。
 
