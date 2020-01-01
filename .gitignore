@@ -1,1 +1,6 @@
+presentation.md
+.vscode
+
+# 在 macOS 上，文件系统会自动在文件里添加隐藏文件 .DS_Store
+# 此文件对 git 项目没有用，所以屏蔽
 .DS_Store
