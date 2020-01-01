@@ -4,10 +4,10 @@
 
 ## [BitBucket提供的系统Git教程](https://www.atlassian.com/git/tutorials)
 
-![Image](../../imgs/BitBucket_1.png)
+![Image](../../img/BitBucket_1.png)
 
 整个教程页, 图文说明很详细, 解释的也绝对到位:
 
-![Image](../../imgs/BitBucket_2.png)
+![Image](../../img/BitBucket_2.png)
 
 宁缺毋滥, 暂时就给大家安利这一个Git学习资源, 其他的我后续发现会加到这个文件里, 也欢饮大家分享你们的资源。

@@ -6,7 +6,7 @@
 
 #### 移动端下载
 
-![Image](../../imgs/789VPN.png)
+![Image](../../img/789VPN.png)
 
 #### 官网链接
 
