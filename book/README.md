@@ -58,17 +58,17 @@ P.S. URL 里的教材大多数是经典英文教材的`中译本`，由于是扫
 
 - [Introduction to Algorithms](https://www.jianguoyun.com/p/DXRAqz8Qw8vpBxixwcAC) 【`英文原版` | `彩色版` | `带书签` | `English`】
   - **简介**：算法导论是算法学习者必备的一本书，内容深度、广度都很大，是进阶选手、基础比较高的学习者所必看的一本算法书。该书给出的都是伪代码，因此比较适合理解原理。
-  - **该书中文版**：[算法导论](https://www.jianguoyun.com/p/DXcUigkQw8vpBxj3wcAC) 【`OCR` ｜ `带书签` | `高清扫描`】
+  - **该书中文版**：[《算法导论》](https://www.jianguoyun.com/p/DXcUigkQw8vpBxj3wcAC) 【`OCR` ｜ `带书签` | `高清扫描`】
 
 - [Computer Organization and Design: The Hardware/Software Interface](https://www.jianguoyun.com/p/DUfuk3kQw8vpBxj2tsAC) 【`英文原版` | `彩色版` | `带书签` | `English`】
   - **简介**：这本书是**计算机原理**界的大牛 Patterson, David A. 的著作，此人是计算机原理界的大佬，更是计算机体系结构（也就是 CPU 原理）的执牛耳者，著名的《计算机体系结构：量化研究方法》也是他的作品。
-  - **该书中文版**：[计算机组成与设计：硬件/软件接口](https://www.jianguoyun.com/p/DbBUjXwQw8vpBxiVt8AC) 【`OCR` ｜ `带书签` | `高清扫描`】
+  - **该书中文版**：[《计算机组成与设计：硬件/软件接口》](https://www.jianguoyun.com/p/DbBUjXwQw8vpBxiVt8AC) 【`OCR` ｜ `带书签` | `高清扫描`】
 
 ### UNIX & Linux
 
 - [Linux Kernel Development](https://www.jianguoyun.com/p/DY_KQF4Qw8vpBxil8r8C) 【`英文原版` | `彩色版` | `带书签` | `English`】
   - **简介**：内核开发比较硬，可以参阅。
-  - **该书中文版**：[Linux 内核设计与实现](https://www.jianguoyun.com/p/DdSPIZ8Qw8vpBxjNtcAC) 【`OCR` ｜ `带书签` | `次高清扫描`】
+  - **该书中文版**：[《Linux 内核设计与实现》](https://www.jianguoyun.com/p/DdSPIZ8Qw8vpBxjNtcAC) 【`OCR` ｜ `带书签` | `次高清扫描`】
 
 - [Harley Hahn's Guide to Unix and Linux](https://www.jianguoyun.com/p/Dfhu0twQw8vpBxiI878C) 【`英文原版` | `彩色版` | `带书签` | `English`】
   - **简介**：这本书的作者哈雷·哈恩以幽默风趣的口吻讲述了 UNIX / Linux 的前世今生以及常用命令的由来、用法，这本书是入门 UNIX 世界的必读之书，假如你是一个对 UNIX 世界一无所知，只会用 Windows 的小白，那么这本书极其适合你。可惜的是，这本书的中文版绝版了；本书中文版被命名为 《Unix & Linux 大学教程》，实在让人摸不着头脑。
