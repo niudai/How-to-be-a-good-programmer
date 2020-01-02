@@ -48,7 +48,7 @@ P.S. URL 里的教材大多数是经典英文教材的`中译本`，由于是扫
   - **简介**：这就是大名鼎鼎的编译原理「恐龙书」或「龙书」，另有「虎书」、「鲸书」，但是三本书中唯有龙书最牛
   - **该书中文版**：[《编译原理》](https://www.jianguoyun.com/p/DYcKwz8Qw8vpBxib778C) 【`OCR` ｜ `带书签` | `高清扫描`】
 
-- [Operating System Concepts](https://www.jianguoyun.com/p/DZ4egRQQouKBBxi2778C) 【`英文原版` | `彩色版` | `带书签` | `English`】
+- [Operating System Concepts](https://www.jianguoyun.com/p/DSZjOi4Qw8vpBxiL58AC) 【`英文原版` | `彩色版` | `带书签` | `English`】
   - **简介**：操作系统有很多的经典教材，这本书是其中之一。
   - **该书中文版**：[《操作系统概念中文》](https://www.jianguoyun.com/p/DQmmdU0Qw8vpBxjS9b8C) 【`OCR` ｜ `带书签` | `高清扫描`】
 
