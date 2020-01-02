@@ -31,7 +31,7 @@ P.S. URL 里的教材大多数是经典英文教材的`中译本`，由于是扫
   - 该书中文版：[《离散数学及其应用》](https://www.jianguoyun.com/p/Db5xgJ0Qw8vpBxjU9b8C) 【`OCR` | `带书签` | `高清扫描`】
 - [Operations Research: Applications And Algorithms](https://www.jianguoyun.com/p/DV4BcecQw8vpBxja8b8C) 【`英文原版` | `彩色版` | `带书签` | `English`】
   - 简介：运筹学是一个涉及过程优化的学问，在数学里是一个大的分支，网络流问题是该领域的研究核心，因为诸如指派、线性规划、整数规划、零一规划、拓扑图问题等，都可以全部或者部分地归为网络流问题。这个领域的问题以及结论非常多，建议非此专业的新手，把这门课当作算法课的补充与延伸，不要过于深入。
-  - 该书中文版：**暂缺**
+  - 该书中文版：**无中文版**
 
 ### 计算机基础
 
@@ -55,15 +55,15 @@ P.S. URL 里的教材大多数是经典英文教材的`中译本`，由于是扫
   - 简介：这本就是大名鼎鼎的「**算法4**」，这本书比《算法导论》简单点，但是学起来更顺手。
   - 该书中文版：[《算法》](https://www.jianguoyun.com/p/DT3Yb9MQw8vpBxjQ9b8C)
 
-- [Computer Organization and Design](https://www.jianguoyun.com/p/DaFwm4cQw8vpBxiE8r8C) 【`英文原版` | `彩色版` | `带书签` | `English`】
+- [Computer Organization and Design: The Hardware/Software Interface](https://www.jianguoyun.com/p/DUfuk3kQw8vpBxj2tsAC) 【`英文原版` | `彩色版` | `带书签` | `English`】
   - 简介：这本书是**计算机原理**界的大牛 Patterson, David A. 的著作，此人是计算机原理界的大佬，更是计算机体系结构（也就是 CPU 原理）的执牛耳者，著名的《计算机体系结构：量化研究方法》也是他的作品。
-  - 该书中文版：**暂缺**
+  - 该书中文版：[计算机组成与设计：硬件/软件接口](https://www.jianguoyun.com/p/DbBUjXwQw8vpBxiVt8AC) 【`OCR` ｜ `带书签` | `高清扫描`】
 
 ### UNIX & Linux
 
 - [Linux Kernel Development](https://www.jianguoyun.com/p/DY_KQF4Qw8vpBxil8r8C) 【`英文原版` | `彩色版` | `带书签` | `English`】
-  - 内核开发比较硬，可以参阅。
-  - 该书中文版：**暂缺**
+  - 简介：内核开发比较硬，可以参阅。
+  - 该书中文版：[Linux 内核设计与实现](https://www.jianguoyun.com/p/DdSPIZ8Qw8vpBxjNtcAC) 【`OCR` ｜ `带书签` | `次高清扫描`】
 - [Harley Hahn's Guide to Unix and Linux](https://www.jianguoyun.com/p/Dfhu0twQw8vpBxiI878C) 【`英文原版` | `彩色版` | `带书签` | `English`】
-  - 这本书的作者以幽默风趣的口吻讲述了 UNIX / Linux 的前世今生以及常用命令的由来、用法，这本书是入门 UNIX 世界的必读之书，可惜中文版绝版了；本书中文版被命名为 《Unix & Linux 大学教程》，实在让人摸不着头脑。
+  - 简介：这本书的作者哈雷·哈恩以幽默风趣的口吻讲述了 UNIX / Linux 的前世今生以及常用命令的由来、用法，这本书是入门 UNIX 世界的必读之书，假如你是一个对 UNIX 世界一无所知，只会用 Windows 的小白，那么这本书极其适合你。可惜的是，这本书的中文版绝版了；本书中文版被命名为 《Unix & Linux 大学教程》，实在让人摸不着头脑。
   - 该书中文版：[《Unix & Linux 大学教程》](https://www.jianguoyun.com/p/DaKwaxkQw8vpBxic878C) 【`OCR` ｜ `带书签` | `次高清扫描`】
