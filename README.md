@@ -81,6 +81,15 @@ P.S. URL 里的教材大多数是经典英文教材的`中译本`，由于是扫
   - **简介**：这本书的作者哈雷·哈恩以幽默风趣的口吻讲述了 UNIX / Linux 的前世今生以及常用命令的由来、用法，这本书是入门 UNIX 世界的必读之书，假如你是一个对 UNIX 世界一无所知，只会用 Windows 的小白，那么这本书极其适合你。可惜的是，这本书的中文版绝版了；本书中文版被命名为 《Unix & Linux 大学教程》，实在让人摸不着头脑。
   - **该书中文版**：[《Unix & Linux 大学教程》](https://www.jianguoyun.com/p/DaKwaxkQw8vpBxic878C) 【`OCR` ｜ `带书签` | `次高清扫描`】
 
+- [Advanced Programming in the UNIX Environment](https://www.jianguoyun.com/p/Df_YiF8Qw8vpBxiX4JoD) 【`英文原版`】
+  - **简介**：Unix 环境高级编程是软件工程师必读之一，通过阅读此书，你将系统理解很多软件核心概念，如线程，并发，同步/异步IO。
+
+### 数据库
+
+- [Database_System_Concepts](https://www.jianguoyun.com/p/DTpc-ZQQw8vpBxjJ4JoD) 【`英文原版` | `彩色版`】
+  - **简介**: 《数据库系统概念》是国外的经典数据库教材，里面关于并发，事务，锁等有细致系统的讲解。
+  - **该书中文版** [《数据库系统概念》](https://www.jianguoyun.com/p/DbofBCgQw8vpBxjk4JoD)
+
 ## 一键下载上述所有电子书
 
 对于想收集起这些电子书以供日常翻阅的学习者，可单击此[链接](https://www.jianguoyun.com/p/DZFIE0YQw8vpBxi21sEC)下载全部电子书。
