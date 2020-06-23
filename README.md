@@ -89,6 +89,11 @@ P.S. URL 里的教材大多数是经典英文教材的`中译本`，由于是扫
 - [Database_System_Concepts](https://www.jianguoyun.com/p/DTpc-ZQQw8vpBxjJ4JoD) 【`英文原版` | `彩色版`】
   - **简介**: 《数据库系统概念》是国外的经典数据库教材，里面关于并发，事务，锁等有细致系统的讲解。
   - **该书中文版** [《数据库系统概念》](https://www.jianguoyun.com/p/DbofBCgQw8vpBxjk4JoD)
+  
+### 软件工程
+
+- [User Stories Applied
+for Agile Software Development](https://github.com/TonnnnnnyLiu/Books/blob/master/用户故事与敏捷方法.pdf)
 
 ## 一键下载上述所有电子书
 
