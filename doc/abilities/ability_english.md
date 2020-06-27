@@ -29,8 +29,13 @@
 
 左边英文, 右边中文, 对照的看, 然后词汇量实在感人的话, 可以把生词记一记, 这样有中文辅助的看, 相当于给你一个拐棍, 等你英语好起来了, 就可以不看右边的了.
 
-分屏快捷键之类的, 自己去查吧.
+分屏（[Chrome 插件 Tab Resize](https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc))快捷键之类的, 自己去查吧.
 
 即便你英语可能是一个不到四级的水平, 但这样做的话, 可能不到半年你就熟练了.
+
+也可以用[Chrome 插件 彩云小译]https://chrome.google.com/webstore/detail/lingocloud-web-translatio/jmpepeebcbihafjjadogphmbgiffiajh 每段英文后有中文对照。
+
+
+后期推荐个([Chrome 插件 沙拉查词](https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg))
 
 学英语最佳方法就是学以致用, 现在学习编程的时候, 正好可以用英语了, 这不是正好吗?
