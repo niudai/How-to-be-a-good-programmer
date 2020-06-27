@@ -2,9 +2,10 @@
 
 ## 国内科技自媒体 
 
-    量子位
+    量子位、[机器之心](https://pro.jiqizhixin.com/)、
 
 ## 国外科技自媒体
+    TechCrunch
 
 ### Youtube 精选频道
 
