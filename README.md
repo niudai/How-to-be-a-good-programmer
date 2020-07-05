@@ -70,6 +70,9 @@ P.S. URL 里的教材大多数是经典英文教材的`中译本`，由于是扫
 - [Computer Organization and Design: The Hardware/Software Interface](https://www.jianguoyun.com/p/DUfuk3kQw8vpBxj2tsAC) 【`英文原版` | `彩色版` | `带书签` | `English`】
   - **简介**：这本书是**计算机原理**界的大牛 Patterson, David A. 的著作，此人是计算机原理界的大佬，更是计算机体系结构（也就是 CPU 原理）的执牛耳者，著名的《计算机体系结构：量化研究方法》也是他的作品。
   - **该书中文版**：[《计算机组成与设计：硬件/软件接口》](https://www.jianguoyun.com/p/DbBUjXwQw8vpBxiVt8AC) 【`OCR` ｜ `带书签` | `高清扫描`】
+  
+- [Computer Architecture:A Quantitative Approach,Fifth Edition](https://www.jianguoyun.com/p/DShosxcQw8vpBxj9h6kD)  【`英文原版` | `彩色版` | `带书签` | `English`】
+  - **简介**：《计算机体系结构:量化研究方法(第5版)》是最权威的计算机体系结构著作，是久负盛名的经典作品。书中系统地介绍了计算机系统的设计基础、指令集系统结构、流水线和指令集并行技术、层次化存储系统与存储设备、互连网络以及多处理器系统等重要内容。
 
 ### UNIX & Linux
 
