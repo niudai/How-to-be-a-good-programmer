@@ -33,7 +33,7 @@
 
 即便你英语可能是一个不到四级的水平, 但这样做的话, 可能不到半年你就熟练了.
 
-也可以用[Chrome 插件 彩云小译]https://chrome.google.com/webstore/detail/lingocloud-web-translatio/jmpepeebcbihafjjadogphmbgiffiajh 每段英文后有中文对照。
+也可以用[Chrome 插件 彩云小译](https://chrome.google.com/webstore/detail/lingocloud-web-translatio/jmpepeebcbihafjjadogphmbgiffiajh) 每段英文后有中文对照。
 
 
 后期推荐个([Chrome 插件 沙拉查词](https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg))
