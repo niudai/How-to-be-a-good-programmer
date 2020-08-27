@@ -97,7 +97,7 @@ for Agile Software Development](https://github.com/TonnnnnnyLiu/Books/blob/maste
 
 ## 一键下载上述所有电子书
 
-对于想收集起这些电子书以供日常翻阅的学习者，可单击此[链接](https://www.jianguoyun.com/p/DZFIE0YQw8vpBxi21sEC)下载全部电子书。
+对于想收集起这些电子书以供日常翻阅的学习者，可单击此[链接](https://cloud.189.cn/t/mquiQvIZBRza)下载全部电子书。
 
 
 ## 工具篇
