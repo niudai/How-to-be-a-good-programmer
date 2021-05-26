@@ -53,7 +53,7 @@
   - **简介**： 这本书简称 `CSAPP`，是所有入行计算机的人必看的一本「**内功心法**」，也是名校卡耐基·梅隆大学的计算机专业本科生基础教程，常看常新，海内外享誉无数。这本英文彩色版有点问题，不是原版，建议看中文版，对照英文。
   - **该书中文版**：[《深入理解计算机系统》](https://cloud.189.cn/t/iEn2MfQZVvMv)【`OCR` ｜ `带书签` | `高清扫描` | `彩色版`】
 
-- [Computer Networking: A Top-Down Approach](https://cloud.189.cn/t/ree6zaBnYje2) 【`英文扫描版` | `彩色版` | `带凌乱书签` | `English`】
+- [Computer Networking: A Top-Down Approach](https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer%20Networking%20_%20A%20Top%20Down%20Approach,%207th,%20converted.pdf) 【`英文扫描版` | `彩色版` | `带凌乱书签` | `English`】
   - **简介**：这是计算机网络经典教材，采用自顶向下方法写作，适合大多数人。由于这本书还没有开放授权，所以只能找到一个不太清楚的 PDF 英文版，不过该书的中文版很清楚，也有完美书签。另外，该书的[第六版](https://www.jianguoyun.com/p/DZDtkw0Qw8vpBxjd9b8C)已经开放下载，是英文原版，不介意的新手，可以参阅第六版英文版。
   - **该书中文版**：[《计算机网络：自顶向下方法》](https://cloud.189.cn/t/mIzY7rmiUnua) 【`OCR` ｜ `带书签` | `高清扫描`】
 
