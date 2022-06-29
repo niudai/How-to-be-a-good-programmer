@@ -35,39 +35,37 @@
 
 #### 1.2.1 数学基础
 
-- [Discrete Mathematics and Its Applications](TODO) 8th Edition (2021) 【`美版`】
+- [Discrete Mathematics and Its Applications](https://www.aliyundrive.com/s/SANHYAD3hRh) 8th Edition (2021) 【`美版`】
   - **简介**：**离散数学**笼统地介绍了许多与计算机相关的数学领域，离散数学并不是「连续数学」即分析学的对立面，而是一个大杂烩，里面什么都有，排序、图论、自动机理论、编码、逻辑等等都被囊括其中。
   - **中文版**：[《离散数学及其应用》](https://cloud.189.cn/t/yUjaAjMNnqIf) 第七版 (2015) 【`高清扫描版`】
 
-- [Operations Research: An Introduction](https://cloud.189.cn/t/BR7FJvymEzIb) 10th Edition (2017) 【`国际版` | `黑白版`】
+- [Operations Research: An Introduction](https://www.aliyundrive.com/s/WDDoLBMX3aW) 10th Edition (2017) 【`国际版` | `黑白版`】
   - **简介**：运筹学是一个涉及过程优化的学问，在数学里是一个大的分支，网络流问题是该领域的研究核心，因为诸如指派、线性规划、整数规划、零一规划、拓扑图问题等，都可以全部或者部分地归为网络流问题。这个领域的问题以及结论非常多，建议非此专业的新手，把这门课当作算法课的补充与延伸，不要过于深入。
   - **中文版**：**暂无**
 
-- [Computational Complexity: A Modern Approach](TODO) (2009) 【`美版` | `黑白版`】
+- [Computational Complexity: A Modern Approach](https://www.aliyundrive.com/s/i11JZeSv8VN) (2009) 【`美版` | `黑白版`】
   - **简介**：可计算理论、计算复杂性理论应该是现代计算机的核心思想，这是阿兰·图灵和丘奇的开创性理论及拓展，学习本门课需要比较强的数学基础，但是这门课不一定是入门者必学的课，但是学了这门课之后，你会对计算机的原理将有更深刻的认视，比如 CPU 为什么需要寄存器，为什么有些问题是不可计算的，为什么计算安全性也能用于实际。由于本门课一般是研究生课程，而且实际应用中的作用不明显，所以不把这门课放在数学基础篇的开头。这本书的作者是著名的计算科学专家阿罗拉。
   - **中文版**：[《计算复杂性：现代方法》](https://cloud.189.cn/t/FnYZBnmANN3m) (2012) 【`高清扫描版`】
 
 #### 1.2.2 计算机基础
 
-- [Computer Systems: A Programmer's Perspective](TODO) 3rd Edition (2015) 【`国际版`】
+- [Computer Systems: A Programmer's Perspective](https://www.aliyundrive.com/s/cqm3zmGNwqs) 3rd Edition Global Edition (2015) 【`国际版`】
   - **简介**： 这本书简称 `CSAPP`，是所有计算机人士必看的一本「**内功心法**」，也是名校卡耐基·梅隆大学的计算机专业本科生的基础教程，常看常新，在海内外享誉无数。
   - **中文版**：[《深入理解计算机系统》](https://cloud.189.cn/t/iEn2MfQZVvMv) 第三版 (2016) 【`美版中译本` | `高清扫描版` | `彩色版`】
 
-- [Computer Networking: A Top-Down Approach](TODO) 8th Edition (2021) 【`美版`】
+- [Computer Networking: A Top-Down Approach](https://www.aliyundrive.com/s/zZvJzm9QN5U) 8th Edition (2021) 【`美版`】
   - **简介**：这是计算机网络经典教材，采用自顶向下方法写作，适合大多数人。
   - **中文版**：[《计算机网络：自顶向下方法》](https://cloud.189.cn/t/mIzY7rmiUnua) 第七版 (2018) 【`高清扫描版`】
 
-Compilers Principles, Techniques, and Tools
-
-- [Computer Networks: A Systems Approach](TODO) 6th Edition (2021) 【`美版`】
+- [Computer Networks: A Systems Approach](https://www.aliyundrive.com/s/dyUZdoA3VNe) 6th Edition (2021) 【`美版`】
   - **简介**：该书与《计算机网络：自顶向下方法》齐名，该书的顺序是自底向上，但是没有花费过多的笔墨介绍物理层。该书对于链路层、网络层、高级网络层、端到端（传输层）的介绍非常详细，可以有助于网络学习者快速建立全局观，而且可以避免沉迷在纷繁的应用层协议里无法自拔。推荐初学者先看这本书。
   - **中文版**：[《计算机网络：系统方法》](https://cloud.189.cn/t/QbAbainaE3Yb) 第五版 (2015) 【`高清扫描版`】
 
-- [Compilers: Principles, Techniques, and Tools](TODO) 2nd Edition (2014) 【`国际版`】
+- [Compilers: Principles, Techniques, and Tools](https://www.aliyundrive.com/s/swx2pdvczph) 2nd Edition International Edition (2014) 【`国际版`】
   - **简介**：这就是大名鼎鼎的编译原理「恐龙书」或「龙书」，另有「虎书」、「鲸书」，但是三本书中唯有龙书最牛
   - **中文版**：[《编译原理》](https://cloud.189.cn/t/MNBzmynaaiAb) 【`美版中译本` | `高清扫描版`】
 
-- [Operating System Concepts](TODO) 10th Edition (2018) 【`美版`】
+- [Operating System Concepts](https://www.aliyundrive.com/s/SCejGWuZsVQ) 10th Edition (2018) 【`美版`】
   - **简介**：操作系统有很多的经典教材，这本书是其中之一。但是这本书正如其名字所示，着重于概念，对于一些细节和举例，并不是很详细。
   - **中文版**：[《操作系统概念》](https://cloud.189.cn/t/ruqqArzUfqYb) 第九版 (2018) 【`高清扫描版`】
 
@@ -79,15 +77,15 @@ Compilers Principles, Techniques, and Tools
 
 - [Algorithms](https://cloud.189.cn/t/uIbQRbniQNrm) 4th Edition (2014) 【`美版`】
   - **简介**：这本就是大名鼎鼎的「**算法4**」，这本书起点比《算法导论》低，学起来更容易。
-  - **中文版**：[《算法》](TODO) 【`非扫描版` | `彩色版`】
+  - **中文版**：[《算法》](https://www.aliyundrive.com/s/1t9Y9uMTz4b) 第四版 【`非扫描版` | `彩色版`】
 
-- [Introduction to Algorithms](TODO) 4th Edition (2022) 【`美版`】
+- [Introduction to Algorithms](https://www.aliyundrive.com/s/J5T7n1Q94j9) 4th Edition (2022) 【`美版`】
   - **简介**：算法导论是算法学习者必备的一本书，内容深度、广度都很大，是进阶选手、基础比较高的学习者所必看的一本算法书。该书给出的都是伪代码，因此比较适合理解原理。
   - **中文版**：[《算法导论》](https://cloud.189.cn/t/iuqm2aVvemem) 第三版 (2012) 【`高清扫描版`】
 
-- [Computer Organization and Design: The Hardware/Software Interface](TODO) RISC-V Edition 2nd Edition (2021)【`美版`】
-  - **简介**：此系列的书是两位泰斗级人物： David A. Patterson 和 John L. Hennessy 合著的巨作，著名的《计算机体系结构：量化研究方法》也是他们的作品。
-  - **中文版**：[《计算机组成与设计：硬件/软件接口》](https://cloud.189.cn/t/INrQ7vnQnaum) MIPS 版 第五版 (2015) 【`高清扫描版`】
+- [Computer Organization and Design RISC-V Edition The Hardware/Software Interface](https://www.aliyundrive.com/s/Rscs2rGkNhG) 2nd Edition (2021)【`美版`】
+  - **简介**：计算机组成与设计：硬件/软件接口系列的书是两位泰斗级人物： David A. Patterson 和 John L. Hennessy 合著的巨作，著名的《计算机体系结构：量化研究方法》也是他们的作品。
+  - **中文版**：[《计算机组成与设计：硬件/软件接口 MIPS版》](https://cloud.189.cn/t/INrQ7vnQnaum) 第五版 (2015) 【`高清扫描版`】
 
 #### 1.2.4 UNIX & Linux
 
@@ -105,7 +103,7 @@ Compilers Principles, Techniques, and Tools
 
 #### 1.2.5 数据库
 
-- [Database System Concepts](TODO) 7th Edition (2020) 【`美版`】
+- [Database System Concepts](https://www.aliyundrive.com/s/MuXm747SyeP) 7th Edition (2020) 【`美版`】
   - **简介**: 《数据库系统概念》是国外的经典数据库教材，里面关于并发，事务，锁等有细致系统的讲解。
   - **中文版** [《数据库系统概念》](https://cloud.189.cn/t/b6vUFvmmyi2u) 第六版 (2012) 【`高清扫描版`】
 
