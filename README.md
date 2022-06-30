@@ -53,14 +53,6 @@
   - **简介**： 这本书简称 `CSAPP`，是所有计算机人士必看的一本「**内功心法**」，也是名校卡耐基·梅隆大学的计算机专业本科生的基础教程，常看常新，在海内外享誉无数。
   - **中文版**：[《深入理解计算机系统》](https://cloud.189.cn/t/iEn2MfQZVvMv) 第三版 (2016) 【`美版中译本` | `高清扫描版` | `彩色版`】
 
-- [Computer Networking: A Top-Down Approach](https://www.aliyundrive.com/s/zZvJzm9QN5U) 8th Edition (2021) 【`美版`】
-  - **简介**：这是计算机网络经典教材，采用自顶向下方法写作，适合大多数人。
-  - **中文版**：[《计算机网络：自顶向下方法》](https://cloud.189.cn/t/mIzY7rmiUnua) 第七版 (2018) 【`高清扫描版`】
-
-- [Computer Networks: A Systems Approach](https://www.aliyundrive.com/s/dyUZdoA3VNe) 6th Edition (2021) 【`美版`】
-  - **简介**：该书与《计算机网络：自顶向下方法》齐名，该书的顺序是自底向上，但是没有花费过多的笔墨介绍物理层。该书对于链路层、网络层、高级网络层、端到端（传输层）的介绍非常详细，可以有助于网络学习者快速建立全局观，而且可以避免沉迷在纷繁的应用层协议里无法自拔。推荐初学者先看这本书。
-  - **中文版**：[《计算机网络：系统方法》](https://cloud.189.cn/t/QbAbainaE3Yb) 第五版 (2015) 【`高清扫描版`】
-
 - [Compilers: Principles, Techniques, and Tools](https://www.aliyundrive.com/s/swx2pdvczph) 2nd Edition International Edition (2014) 【`国际版`】
   - **简介**：这就是大名鼎鼎的编译原理「恐龙书」或「龙书」，另有「虎书」、「鲸书」，但是三本书中唯有龙书最牛
   - **中文版**：[《编译原理》](https://cloud.189.cn/t/MNBzmynaaiAb) 【`美版中译本` | `高清扫描版`】
@@ -73,6 +65,18 @@
   - **简介**：这本书的作者是著名的计算机科学家 Tanenbaum，作者名字一般译为**塔嫩鲍姆**，他也是著名的 MINIX 系统的作者。Linux 内核的作者 Linus Torvalds 在他的自传 Just for Fun 里面这样评价塔嫩鲍姆的另一本书：**每个人都会遇到一本改变自己一生的书吧......而安德鲁·坦尼鲍姆所著的书《操作系统：设计与实现》让我脱胎换骨，达到了一个全新的高度，改变了我的一生。** 这本《现代操作系统》更具现代意义，算是 Linus 高度赞誉的那本书的新时代版本。如果你能把这本书通读一遍，相信你肯定可以升华自己的境界。
   - **中文版**：[《现代操作系统》](https://cloud.189.cn/t/fi2MJjMnUZFb) 第四版 (2017) 【`高清扫描版`】
 
+- [Computer Organization and Design RISC-V Edition The Hardware/Software Interface](https://www.aliyundrive.com/s/Rscs2rGkNhG) 2nd Edition (2021)【`美版`】
+  - **简介**：计算机组成与设计：硬件/软件接口系列的书是两位泰斗级人物： David A. Patterson 和 John L. Hennessy 合著的巨作，著名的《计算机体系结构：量化研究方法》也是他们的作品。
+  - **中文版**：[《计算机组成与设计：硬件/软件接口 MIPS版》](https://cloud.189.cn/t/INrQ7vnQnaum) 第五版 (2015) 【`高清扫描版`】
+
+- [Computer Networking: A Top-Down Approach](https://www.aliyundrive.com/s/zZvJzm9QN5U) 8th Edition (2021) 【`美版`】
+  - **简介**：这是计算机网络经典教材，采用自顶向下方法写作，适合大多数人。
+  - **中文版**：[《计算机网络：自顶向下方法》](https://cloud.189.cn/t/mIzY7rmiUnua) 第七版 (2018) 【`高清扫描版`】
+
+- [Computer Networks: A Systems Approach](https://www.aliyundrive.com/s/dyUZdoA3VNe) 6th Edition (2021) 【`美版`】
+  - **简介**：该书与《计算机网络：自顶向下方法》齐名，该书的顺序是自底向上，但是没有花费过多的笔墨介绍物理层。该书对于链路层、网络层、高级网络层、端到端（传输层）的介绍非常详细，可以有助于网络学习者快速建立全局观，而且可以避免沉迷在纷繁的应用层协议里无法自拔。推荐初学者先看这本书。
+  - **中文版**：[《计算机网络：系统方法》](https://cloud.189.cn/t/QbAbainaE3Yb) 第五版 (2015) 【`高清扫描版`】
+
 #### 1.2.3 算法基础
 
 - [Algorithms](https://cloud.189.cn/t/uIbQRbniQNrm) 4th Edition (2014) 【`美版`】
@@ -82,10 +86,6 @@
 - [Introduction to Algorithms](https://www.aliyundrive.com/s/J5T7n1Q94j9) 4th Edition (2022) 【`美版`】
   - **简介**：算法导论是算法学习者必备的一本书，内容深度、广度都很大，是进阶选手、基础比较高的学习者所必看的一本算法书。该书给出的都是伪代码，因此比较适合理解原理。
   - **中文版**：[《算法导论》](https://cloud.189.cn/t/iuqm2aVvemem) 第三版 (2012) 【`高清扫描版`】
-
-- [Computer Organization and Design RISC-V Edition The Hardware/Software Interface](https://www.aliyundrive.com/s/Rscs2rGkNhG) 2nd Edition (2021)【`美版`】
-  - **简介**：计算机组成与设计：硬件/软件接口系列的书是两位泰斗级人物： David A. Patterson 和 John L. Hennessy 合著的巨作，著名的《计算机体系结构：量化研究方法》也是他们的作品。
-  - **中文版**：[《计算机组成与设计：硬件/软件接口 MIPS版》](https://cloud.189.cn/t/INrQ7vnQnaum) 第五版 (2015) 【`高清扫描版`】
 
 #### 1.2.4 UNIX & Linux
 
