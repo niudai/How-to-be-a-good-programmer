@@ -53,6 +53,10 @@
   - **简介**： 这本书简称 `CSAPP`，是所有计算机人士必看的一本「**内功心法**」，也是名校卡耐基·梅隆大学的计算机专业本科生的基础教程，常看常新，在海内外享誉无数。
   - **中文版**：[《深入理解计算机系统》](https://cloud.189.cn/t/iEn2MfQZVvMv) 第三版 (2016) 【`美版中译本` | `高清扫描版` | `彩色版`】
 
+- [Computer Organization and Design RISC-V Edition The Hardware/Software Interface](https://www.aliyundrive.com/s/Rscs2rGkNhG) 2nd Edition (2021)【`美版`】
+  - **简介**：计算机组成与设计：硬件/软件接口系列的书是两位泰斗级人物： David A. Patterson 和 John L. Hennessy 合著的巨作，著名的《计算机体系结构：量化研究方法》也是他们的作品。
+  - **中文版**：[《计算机组成与设计：硬件/软件接口 MIPS版》](https://cloud.189.cn/t/INrQ7vnQnaum) 第五版 (2015) 【`高清扫描版`】
+
 - [Compilers: Principles, Techniques, and Tools](https://www.aliyundrive.com/s/swx2pdvczph) 2nd Edition International Edition (2014) 【`国际版`】
   - **简介**：这就是大名鼎鼎的编译原理「恐龙书」或「龙书」，另有「虎书」、「鲸书」，但是三本书中唯有龙书最牛
   - **中文版**：[《编译原理》](https://cloud.189.cn/t/MNBzmynaaiAb) 【`美版中译本` | `高清扫描版`】
@@ -64,10 +68,6 @@
 - [Modern Operation Systems](https://cloud.189.cn/t/emIvMr3EBvaq) 4th Edition (2015) 【`美版`】
   - **简介**：这本书的作者是著名的计算机科学家 Tanenbaum，作者名字一般译为**塔嫩鲍姆**，他也是著名的 MINIX 系统的作者。Linux 内核的作者 Linus Torvalds 在他的自传 Just for Fun 里面这样评价塔嫩鲍姆的另一本书：**每个人都会遇到一本改变自己一生的书吧......而安德鲁·坦尼鲍姆所著的书《操作系统：设计与实现》让我脱胎换骨，达到了一个全新的高度，改变了我的一生。** 这本《现代操作系统》更具现代意义，算是 Linus 高度赞誉的那本书的新时代版本。如果你能把这本书通读一遍，相信你肯定可以升华自己的境界。
   - **中文版**：[《现代操作系统》](https://cloud.189.cn/t/fi2MJjMnUZFb) 第四版 (2017) 【`高清扫描版`】
-
-- [Computer Organization and Design RISC-V Edition The Hardware/Software Interface](https://www.aliyundrive.com/s/Rscs2rGkNhG) 2nd Edition (2021)【`美版`】
-  - **简介**：计算机组成与设计：硬件/软件接口系列的书是两位泰斗级人物： David A. Patterson 和 John L. Hennessy 合著的巨作，著名的《计算机体系结构：量化研究方法》也是他们的作品。
-  - **中文版**：[《计算机组成与设计：硬件/软件接口 MIPS版》](https://cloud.189.cn/t/INrQ7vnQnaum) 第五版 (2015) 【`高清扫描版`】
 
 - [Computer Networking: A Top-Down Approach](https://www.aliyundrive.com/s/zZvJzm9QN5U) 8th Edition (2021) 【`美版`】
   - **简介**：这是计算机网络经典教材，采用自顶向下方法写作，适合大多数人。
