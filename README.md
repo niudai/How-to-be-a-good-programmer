@@ -39,6 +39,8 @@
   - **简介**：**离散数学**笼统地介绍了许多与计算机相关的数学领域，离散数学并不是「连续数学」即分析学的对立面，而是一个大杂烩，里面什么都有，排序、图论、自动机理论、编码、逻辑等等都被囊括其中。
   - **中文版**：[《离散数学及其应用》](https://cloud.189.cn/t/yUjaAjMNnqIf) 第七版 (2015) 【`高清扫描版`】
 
+- [Linear Algebra and Its Applications]() 6th Edition Global Edition (2022) 【`国际版`】
+
 - [Operations Research: An Introduction](https://www.aliyundrive.com/s/WDDoLBMX3aW) 10th Edition (2017) 【`国际版` | `黑白版`】
   - **简介**：运筹学是一个涉及过程优化的学问，在数学里是一个大的分支，网络流问题是该领域的研究核心，因为诸如指派、线性规划、整数规划、零一规划、拓扑图问题等，都可以全部或者部分地归为网络流问题。这个领域的问题以及结论非常多，建议非此专业的新手，把这门课当作算法课的补充与延伸，不要过于深入。
   - **中文版**：**暂无**
@@ -59,7 +61,7 @@
 
 - [Compilers: Principles, Techniques, and Tools](https://www.aliyundrive.com/s/swx2pdvczph) 2nd Edition International Edition (2014) 【`国际版`】
   - **简介**：这就是大名鼎鼎的编译原理「恐龙书」或「龙书」，另有「虎书」、「鲸书」，但是三本书中唯有龙书最牛
-  - **中文版**：[《编译原理》](https://cloud.189.cn/t/MNBzmynaaiAb) 【`美版中译本` | `高清扫描版`】
+  - **中文版**：[《编译原理》](https://cloud.189.cn/t/MNBzmynaaiAb) (2009) 【`美版中译本` | `高清扫描版`】
 
 - [Operating System Concepts](https://www.aliyundrive.com/s/SCejGWuZsVQ) 10th Edition (2018) 【`美版`】
   - **简介**：操作系统有很多的经典教材，这本书是其中之一。但是这本书正如其名字所示，着重于概念，对于一些细节和举例，并不是很详细。
@@ -69,7 +71,7 @@
   - **简介**：这本书的作者是著名的计算机科学家 Tanenbaum，作者名字一般译为**塔嫩鲍姆**，他也是著名的 MINIX 系统的作者。Linux 内核的作者 Linus Torvalds 在他的自传 Just for Fun 里面这样评价塔嫩鲍姆的另一本书：**每个人都会遇到一本改变自己一生的书吧......而安德鲁·坦尼鲍姆所著的书《操作系统：设计与实现》让我脱胎换骨，达到了一个全新的高度，改变了我的一生。** 这本《现代操作系统》更具现代意义，算是 Linus 高度赞誉的那本书的新时代版本。如果你能把这本书通读一遍，相信你肯定可以升华自己的境界。
   - **中文版**：[《现代操作系统》](https://cloud.189.cn/t/fi2MJjMnUZFb) 第四版 (2017) 【`高清扫描版`】
 
-- [Computer Networking: A Top-Down Approach](https://www.aliyundrive.com/s/zZvJzm9QN5U) 8th Edition (2021) 【`美版`】
+- [Computer Networking: A Top-Down Approach](https://www.aliyundrive.com/s/HCD5LTX2Ajd) 8th Edition (2021) 【`美版`】【`国际版`】
   - **简介**：这是计算机网络经典教材，采用自顶向下方法写作，适合大多数人。
   - **中文版**：[《计算机网络：自顶向下方法》](https://cloud.189.cn/t/mIzY7rmiUnua) 第七版 (2018) 【`高清扫描版`】
 
